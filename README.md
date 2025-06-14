@@ -1,4 +1,2 @@
 # html-website
-Website V1
-14062025:
-    Removed Solution Page
+Current State: Website V1.2
